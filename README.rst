@@ -2,7 +2,7 @@
 Plop
 ========
 
-Let's you create an index of all fields in one or more nested data structures.
+Let's you create an index of all fields in one or more nested data structures::
 
     import plop
     index = plop.Index()
